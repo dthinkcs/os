@@ -1,3 +1,4 @@
+http://www.newthinktank.com/2016/06/shell-scripting-tutorial/
 I. Intro
 
 1. A shell script contains commands that are executed as if you typed them in the terminal.

@@ -1,0 +1,5 @@
+RegistrationNo:Name:Department:Branch:Section:Sub1:Sub2:Sub3
+1234:XYZ:ICT:Information Technology:A:80:60:70
+1709:Rishabh:ICT:Information Technology:A:90:99:96
+1711:Srinchow:CSE:CS:B:60:60:60
+1334:Sourabh:CSE:MnC:A:50:80:90
